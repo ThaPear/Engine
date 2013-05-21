@@ -1,0 +1,5 @@
+*.exe			# 
+*.sdf			# Visual studio working database.
+bin/Crap/		# Compiler generated files.
+bin/Debug/		# Debug Binaries.
+bin/Release/	# Release Binaries.
